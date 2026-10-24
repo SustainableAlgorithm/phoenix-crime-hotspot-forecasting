@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local data and generated results (review before intentionally sharing)
+data/raw/
+data/*.csv
+results/generated/
+
+# Jupyter local state
+.ipynb_checkpoints/
