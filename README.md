@@ -6,7 +6,7 @@ A reproducible academic project exploring monthly crime-count forecasting across
 
 ## Project status
 
-This repository is a cleaned, reproducible code scaffold. Previously saved notebook outputs and narrative metrics are not treated as final until regenerated with this pipeline and reconciled. No performance claim is made here.
+This repository contains a reproducible code implementation and a preliminary local reproduction. Previously saved notebook outputs and narrative metrics are not treated as final until regenerated with this pipeline and reconciled. See [the reproduction and audit notes](reports/REPRODUCTION_AUDIT.md) for the current metric comparison and known protocol differences. Results are preliminary; no claim is made that the new pipeline reproduces the submitted PDF exactly.
 
 ## Study design
 
